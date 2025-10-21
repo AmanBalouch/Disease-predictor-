@@ -1,6 +1,6 @@
 # 🩺 Disease Predictor App  
 
-The **Disease Predictor App** is a **Programming Fundamentals semester project** built with **Flutter (frontend)** and **Flask (backend)**.  
+The **Disease Predictor App** is a **Programming for AI semester project** built with **Flutter (frontend)** and **Flask (backend)**.  
 It uses a **Naïve Bayes machine learning model** to predict diseases based on user-input symptoms.  
 The backend is deployed on **PythonAnywhere**, making the app accessible from anywhere.  
 
